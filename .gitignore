@@ -1,0 +1,29 @@
+# Python Cache & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# User Uploads & Models (runtime artifacts)
+data/uploads/*
+!data/uploads/.gitkeep
+data/monitoring/*
+!data/monitoring/.gitkeep
+data/reference/*
+!data/reference/.gitkeep
+artifacts/models/*
+!artifacts/models/.gitkeep
+artifacts/metadata/*
+!artifacts/metadata/.gitkeep
+reports/*
+!reports/.gitkeep
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,401 @@
+applicant_id,age,annual_income,credit_score,loan_amount,debt_to_income,employment_years,education,home_ownership,loan_purpose
+MON-5000,36,47496.3,679,35275.17,0.377,0,Bachelor,OWN,small_business
+MON-5001,70,43760.79,437,15673.72,0.638,3,High School,RENT,credit_card
+MON-5002,44,37490.6,437,40990.83,0.272,15,Master,RENT,home_improvement
+MON-5003,53,42949.11,534,19720.47,0.584,3,Bachelor,RENT,debt_consolidation
+MON-5004,39,60540.44,494,15436.64,0.424,13,Bachelor,RENT,home_improvement
+MON-5005,40,57453.31,496,25721.94,0.634,9,Bachelor,RENT,credit_card
+MON-5006,36,48922.72,436,6758.76,0.225,18,Bachelor,RENT,home_improvement
+MON-5007,58,70540.35,613,25395.89,0.608,10,High School,RENT,credit_card
+MON-5008,70,41120.25,405,27107.69,0.56,19,High School,RENT,debt_consolidation
+MON-5009,36,72657.91,499,19200.94,0.255,5,Bachelor,MORTGAGE,debt_consolidation
+MON-5010,64,54569.69,530,37607.39,0.414,12,Bachelor,MORTGAGE,debt_consolidation
+MON-5011,73,63165.14,668,27561.56,0.322,12,High School,RENT,debt_consolidation
+MON-5012,58,36698.44,404,36885.24,0.635,5,Bachelor,RENT,credit_card
+MON-5013,37,41595.04,417,17762.33,0.627,7,Bachelor,OWN,debt_consolidation
+MON-5014,35,46516.65,492,34052.36,0.243,18,High School,RENT,debt_consolidation
+MON-5015,47,35098.64,627,22746.91,0.579,4,High School,RENT,debt_consolidation
+MON-5016,43,46968.58,473,10386.59,0.456,10,Bachelor,RENT,credit_card
+MON-5017,55,52267.27,654,20889.02,0.494,18,Bachelor,RENT,debt_consolidation
+MON-5018,74,49434.05,706,24255.05,0.308,15,Master,RENT,debt_consolidation
+MON-5019,50,31376.52,425,54490.57,0.232,2,Bachelor,RENT,debt_consolidation
+MON-5020,62,67251.45,453,21185.48,0.274,11,Bachelor,RENT,credit_card
+MON-5021,72,44392.23,488,3000.0,0.572,7,High School,RENT,small_business
+MON-5022,71,38985.19,605,21379.91,0.42,15,Bachelor,RENT,credit_card
+MON-5023,52,54394.93,458,23546.06,0.478,3,High School,RENT,credit_card
+MON-5024,44,50945.22,419,18744.52,0.525,19,Bachelor,MORTGAGE,debt_consolidation
+MON-5025,67,55897.1,435,32628.67,0.323,7,Master,RENT,credit_card
+MON-5026,56,53222.98,423,32142.93,0.325,15,High School,OWN,debt_consolidation
+MON-5027,70,85353.96,590,33834.24,0.396,9,High School,MORTGAGE,credit_card
+MON-5028,54,18294.32,465,16566.92,0.638,14,High School,MORTGAGE,debt_consolidation
+MON-5029,57,31282.29,489,26375.06,0.379,0,Master,MORTGAGE,debt_consolidation
+MON-5030,61,41043.15,497,23714.2,0.493,2,Bachelor,RENT,credit_card
+MON-5031,40,60258.58,479,11353.48,0.312,15,Bachelor,RENT,home_improvement
+MON-5032,47,38926.83,570,16143.61,0.235,5,High School,RENT,debt_consolidation
+MON-5033,67,35270.55,415,22925.22,0.397,1,High School,RENT,debt_consolidation
+MON-5034,62,59319.21,473,48641.26,0.298,18,High School,MORTGAGE,home_improvement
+MON-5035,36,78290.28,480,7887.93,0.405,9,High School,MORTGAGE,debt_consolidation
+MON-5036,46,49962.76,433,25973.3,0.482,10,Bachelor,RENT,debt_consolidation
+MON-5037,46,43529.35,416,11400.84,0.392,11,Doctorate,MORTGAGE,debt_consolidation
+MON-5038,64,32954.24,670,13497.51,0.395,11,Bachelor,RENT,debt_consolidation
+MON-5039,66,52027.85,686,41339.64,0.304,16,High School,RENT,debt_consolidation
+MON-5040,68,38568.14,480,3000.0,0.386,12,Master,RENT,debt_consolidation
+MON-5041,47,74229.96,662,25407.61,0.262,12,High School,MORTGAGE,debt_consolidation
+MON-5042,48,66368.65,659,24590.23,0.259,1,High School,RENT,debt_consolidation
+MON-5043,47,57759.43,436,13006.47,0.649,2,Bachelor,RENT,debt_consolidation
+MON-5044,70,62720.23,675,28925.16,0.595,13,Bachelor,RENT,credit_card
+MON-5045,59,35871.59,703,37784.37,0.3,2,Bachelor,MORTGAGE,credit_card
+MON-5046,44,35737.14,615,24380.87,0.216,13,Bachelor,RENT,debt_consolidation
+MON-5047,46,42116.61,657,24212.04,0.248,15,High School,OWN,debt_consolidation
+MON-5048,35,64660.47,496,16942.31,0.317,17,Bachelor,RENT,debt_consolidation
+MON-5049,58,60135.44,455,12828.44,0.511,13,Master,RENT,debt_consolidation
+MON-5050,46,33014.1,411,18090.26,0.418,14,High School,RENT,credit_card
+MON-5051,70,90072.01,706,31959.8,0.647,14,Bachelor,MORTGAGE,credit_card
+MON-5052,73,45013.07,693,44222.12,0.634,19,Bachelor,MORTGAGE,debt_consolidation
+MON-5053,37,76922.39,595,16378.12,0.572,7,High School,RENT,debt_consolidation
+MON-5054,54,32871.84,716,16326.91,0.54,12,High School,MORTGAGE,home_improvement
+MON-5055,53,78409.82,690,12126.24,0.276,18,Doctorate,RENT,debt_consolidation
+MON-5056,62,48863.03,501,27144.13,0.554,7,High School,MORTGAGE,debt_consolidation
+MON-5057,70,39677.55,424,32908.73,0.298,4,High School,RENT,debt_consolidation
+MON-5058,64,73716.45,586,21116.72,0.369,9,High School,MORTGAGE,debt_consolidation
+MON-5059,56,71180.01,605,33782.83,0.297,18,High School,OWN,debt_consolidation
+MON-5060,71,16234.18,488,28176.88,0.493,5,Bachelor,OWN,home_improvement
+MON-5061,68,35957.07,467,7506.5,0.519,8,Master,RENT,debt_consolidation
+MON-5062,64,42799.71,482,14387.31,0.456,9,High School,RENT,credit_card
+MON-5063,66,46835.09,697,35122.63,0.591,15,Master,RENT,debt_consolidation
+MON-5064,46,18675.93,461,3000.0,0.525,9,High School,OWN,debt_consolidation
+MON-5065,65,88474.54,630,30659.08,0.375,9,High School,RENT,credit_card
+MON-5066,46,55881.36,521,29823.66,0.613,12,High School,RENT,credit_card
+MON-5067,71,48291.76,466,31360.01,0.536,0,Bachelor,RENT,credit_card
+MON-5068,58,52254.94,431,16174.85,0.389,18,High School,OWN,debt_consolidation
+MON-5069,65,57405.42,408,25232.91,0.233,3,High School,RENT,credit_card
+MON-5070,62,64689.89,417,17618.54,0.383,7,High School,MORTGAGE,debt_consolidation
+MON-5071,72,51268.61,424,28691.58,0.299,8,Doctorate,RENT,debt_consolidation
+MON-5072,58,44731.1,456,36636.88,0.293,9,High School,RENT,debt_consolidation
+MON-5073,62,60661.04,524,6786.91,0.543,0,High School,RENT,debt_consolidation
+MON-5074,72,65587.99,702,31543.86,0.425,4,High School,RENT,credit_card
+MON-5075,67,37921.84,523,19699.42,0.554,17,High School,RENT,credit_card
+MON-5076,38,85008.63,577,23988.92,0.606,6,Doctorate,MORTGAGE,credit_card
+MON-5077,42,87178.86,695,14455.54,0.421,5,Bachelor,MORTGAGE,debt_consolidation
+MON-5078,63,15000.0,554,18127.21,0.471,8,Bachelor,RENT,credit_card
+MON-5079,40,66604.13,570,43070.93,0.23,17,Bachelor,RENT,credit_card
+MON-5080,74,36509.27,465,39828.2,0.26,11,High School,RENT,credit_card
+MON-5081,49,42517.89,440,35749.07,0.359,10,Doctorate,MORTGAGE,debt_consolidation
+MON-5082,69,52949.11,545,17199.99,0.218,10,High School,RENT,credit_card
+MON-5083,70,47312.93,488,39200.89,0.227,14,Bachelor,MORTGAGE,debt_consolidation
+MON-5084,67,74472.71,606,16224.85,0.619,0,High School,MORTGAGE,debt_consolidation
+MON-5085,62,55985.41,679,16465.71,0.504,17,High School,RENT,debt_consolidation
+MON-5086,35,81295.78,590,19453.19,0.358,3,Doctorate,RENT,debt_consolidation
+MON-5087,49,61165.65,528,17153.76,0.393,3,High School,MORTGAGE,credit_card
+MON-5088,67,29532.52,436,16288.6,0.337,1,Master,RENT,debt_consolidation
+MON-5089,71,76059.72,473,3000.0,0.561,13,High School,RENT,debt_consolidation
+MON-5090,62,47950.82,528,17599.63,0.274,10,High School,MORTGAGE,debt_consolidation
+MON-5091,52,33420.45,553,19426.54,0.399,12,Bachelor,RENT,credit_card
+MON-5092,48,71782.37,479,22919.51,0.222,2,High School,RENT,debt_consolidation
+MON-5093,60,59318.9,437,27887.52,0.534,11,Doctorate,OWN,credit_card
+MON-5094,45,66360.34,530,3000.0,0.278,11,Master,RENT,credit_card
+MON-5095,66,39772.84,696,31679.61,0.588,2,High School,MORTGAGE,home_improvement
+MON-5096,61,25141.89,566,3481.7,0.279,16,Bachelor,RENT,credit_card
+MON-5097,57,34612.03,467,18592.21,0.402,14,High School,RENT,debt_consolidation
+MON-5098,45,39290.94,649,7761.12,0.309,3,High School,RENT,credit_card
+MON-5099,68,47852.39,571,23054.8,0.545,1,High School,MORTGAGE,debt_consolidation
+MON-5100,73,57911.28,475,10785.02,0.442,5,Master,OWN,debt_consolidation
+MON-5101,53,56560.41,542,28100.23,0.274,3,Bachelor,RENT,credit_card
+MON-5102,48,79027.08,583,25866.23,0.309,12,Bachelor,RENT,debt_consolidation
+MON-5103,62,53100.68,516,29790.8,0.225,9,Master,MORTGAGE,debt_consolidation
+MON-5104,37,61025.03,652,24300.55,0.474,1,Master,RENT,credit_card
+MON-5105,74,73667.64,627,5062.88,0.431,9,High School,RENT,debt_consolidation
+MON-5106,69,31119.89,708,29182.21,0.496,7,Bachelor,RENT,debt_consolidation
+MON-5107,38,59380.73,500,15985.14,0.624,8,High School,RENT,debt_consolidation
+MON-5108,50,31650.69,658,19816.3,0.643,1,Bachelor,OWN,debt_consolidation
+MON-5109,65,44723.57,516,22927.85,0.256,10,Master,MORTGAGE,credit_card
+MON-5110,64,75507.07,436,17027.22,0.479,2,Master,RENT,credit_card
+MON-5111,45,58617.53,454,34566.14,0.555,19,Master,OWN,debt_consolidation
+MON-5112,69,61633.81,564,23574.62,0.447,5,Master,RENT,credit_card
+MON-5113,61,50116.45,658,16413.66,0.544,9,High School,RENT,debt_consolidation
+MON-5114,41,50844.05,636,34172.58,0.311,18,Bachelor,RENT,debt_consolidation
+MON-5115,68,15000.0,614,25387.29,0.469,13,Bachelor,OWN,debt_consolidation
+MON-5116,46,42152.46,439,32143.04,0.423,19,Doctorate,MORTGAGE,credit_card
+MON-5117,65,50022.56,642,22209.27,0.627,6,Bachelor,RENT,debt_consolidation
+MON-5118,41,59226.9,623,7809.74,0.337,17,Bachelor,RENT,debt_consolidation
+MON-5119,50,26312.06,579,4710.09,0.433,13,Bachelor,OWN,debt_consolidation
+MON-5120,66,32970.91,528,26204.74,0.574,18,Bachelor,MORTGAGE,credit_card
+MON-5121,38,49065.55,701,20128.01,0.647,4,Bachelor,RENT,debt_consolidation
+MON-5122,46,46789.93,445,7544.56,0.242,16,High School,RENT,debt_consolidation
+MON-5123,63,41677.81,470,50309.9,0.341,14,Master,RENT,debt_consolidation
+MON-5124,41,40506.65,515,13772.19,0.441,11,High School,MORTGAGE,credit_card
+MON-5125,42,23888.88,476,30804.34,0.587,5,High School,RENT,debt_consolidation
+MON-5126,55,55055.73,588,26520.84,0.366,1,Bachelor,OWN,debt_consolidation
+MON-5127,60,29395.67,510,30644.62,0.574,5,High School,MORTGAGE,debt_consolidation
+MON-5128,69,55273.34,544,38948.92,0.225,11,High School,RENT,debt_consolidation
+MON-5129,42,17044.54,438,12354.1,0.376,4,Bachelor,RENT,debt_consolidation
+MON-5130,56,15000.0,627,32325.71,0.506,16,High School,RENT,debt_consolidation
+MON-5131,40,59760.62,566,34951.47,0.599,10,Master,RENT,credit_card
+MON-5132,65,26244.66,498,33888.33,0.217,14,Master,OWN,debt_consolidation
+MON-5133,36,34473.69,485,19106.8,0.604,18,Doctorate,RENT,credit_card
+MON-5134,56,92243.39,648,3000.0,0.218,0,High School,RENT,small_business
+MON-5135,69,72796.14,466,24476.88,0.642,11,High School,RENT,credit_card
+MON-5136,74,37869.46,608,23644.17,0.229,13,Doctorate,MORTGAGE,debt_consolidation
+MON-5137,35,56761.22,401,5951.64,0.609,0,Bachelor,OWN,debt_consolidation
+MON-5138,41,47979.0,719,42822.0,0.432,0,Bachelor,RENT,credit_card
+MON-5139,58,44787.33,612,28819.25,0.206,6,Master,RENT,debt_consolidation
+MON-5140,53,43989.32,680,21396.7,0.56,6,High School,MORTGAGE,credit_card
+MON-5141,43,35373.62,438,43881.14,0.606,16,High School,OWN,debt_consolidation
+MON-5142,57,79857.86,676,7246.37,0.241,16,Bachelor,MORTGAGE,debt_consolidation
+MON-5143,62,67032.35,678,18913.59,0.511,10,Master,MORTGAGE,home_improvement
+MON-5144,39,40088.83,529,22685.4,0.321,16,High School,OWN,debt_consolidation
+MON-5145,50,41344.03,412,3981.66,0.245,8,Bachelor,RENT,debt_consolidation
+MON-5146,67,69048.66,689,9359.65,0.276,12,Master,MORTGAGE,debt_consolidation
+MON-5147,36,39690.41,509,28231.49,0.437,0,High School,OWN,credit_card
+MON-5148,58,44694.0,614,27120.83,0.563,1,Master,RENT,debt_consolidation
+MON-5149,51,66542.47,453,45679.48,0.238,17,Bachelor,RENT,small_business
+MON-5150,56,58101.49,564,3000.0,0.563,18,High School,MORTGAGE,credit_card
+MON-5151,46,63037.54,546,25125.99,0.373,16,High School,RENT,debt_consolidation
+MON-5152,38,29246.06,437,10058.66,0.333,4,High School,MORTGAGE,home_improvement
+MON-5153,65,36850.3,421,35347.82,0.468,18,High School,RENT,home_improvement
+MON-5154,54,63638.84,662,16250.31,0.575,10,High School,RENT,debt_consolidation
+MON-5155,68,54026.01,400,21518.4,0.291,19,High School,MORTGAGE,debt_consolidation
+MON-5156,45,38907.64,431,7663.89,0.489,8,Bachelor,MORTGAGE,small_business
+MON-5157,49,91298.42,587,41066.75,0.347,3,Doctorate,RENT,debt_consolidation
+MON-5158,66,56775.61,715,23446.24,0.498,14,Bachelor,MORTGAGE,debt_consolidation
+MON-5159,40,63768.54,496,29116.4,0.22,4,Bachelor,RENT,debt_consolidation
+MON-5160,64,55436.64,687,15781.05,0.373,4,Bachelor,RENT,credit_card
+MON-5161,45,48452.91,684,19283.45,0.397,4,High School,RENT,debt_consolidation
+MON-5162,51,32711.57,608,29210.59,0.322,3,Master,OWN,debt_consolidation
+MON-5163,58,82092.19,455,3000.0,0.639,18,Bachelor,MORTGAGE,home_improvement
+MON-5164,35,73466.45,656,15770.18,0.293,16,High School,RENT,credit_card
+MON-5165,42,56898.84,623,20036.08,0.348,4,Master,MORTGAGE,debt_consolidation
+MON-5166,58,59175.67,660,16878.61,0.213,5,High School,MORTGAGE,credit_card
+MON-5167,71,18994.7,423,42222.09,0.626,0,High School,RENT,debt_consolidation
+MON-5168,60,27548.99,700,29608.78,0.368,15,Bachelor,RENT,debt_consolidation
+MON-5169,49,32026.76,460,27578.48,0.243,17,Doctorate,RENT,credit_card
+MON-5170,59,57565.09,478,33099.14,0.467,7,Master,OWN,debt_consolidation
+MON-5171,53,75837.52,501,27618.98,0.247,0,High School,MORTGAGE,small_business
+MON-5172,35,78032.57,501,28037.77,0.621,12,Bachelor,RENT,small_business
+MON-5173,44,49052.53,462,29235.47,0.318,1,Bachelor,MORTGAGE,debt_consolidation
+MON-5174,36,34621.12,584,19151.64,0.463,7,High School,RENT,credit_card
+MON-5175,47,40093.39,664,17481.32,0.542,0,High School,RENT,debt_consolidation
+MON-5176,59,42094.07,624,31617.61,0.501,1,Master,MORTGAGE,debt_consolidation
+MON-5177,66,31903.56,569,22812.68,0.437,2,Bachelor,MORTGAGE,credit_card
+MON-5178,74,24676.93,537,32613.27,0.466,0,Master,RENT,debt_consolidation
+MON-5179,72,48560.69,531,25132.78,0.332,4,High School,OWN,credit_card
+MON-5180,53,41841.13,719,27763.99,0.451,11,Master,RENT,debt_consolidation
+MON-5181,37,41048.5,642,23887.34,0.369,12,Bachelor,OWN,credit_card
+MON-5182,65,50168.37,717,22305.09,0.335,6,High School,RENT,credit_card
+MON-5183,51,59093.71,648,29494.37,0.573,4,High School,RENT,debt_consolidation
+MON-5184,64,36347.19,634,8898.8,0.501,19,Bachelor,MORTGAGE,debt_consolidation
+MON-5185,69,83547.07,696,34721.86,0.36,18,Bachelor,RENT,debt_consolidation
+MON-5186,53,54557.88,479,25011.42,0.204,11,High School,RENT,debt_consolidation
+MON-5187,40,53969.68,434,25362.15,0.494,14,High School,MORTGAGE,credit_card
+MON-5188,36,57534.46,498,9140.27,0.327,14,High School,MORTGAGE,small_business
+MON-5189,72,28621.76,579,14029.8,0.618,2,High School,RENT,debt_consolidation
+MON-5190,63,80998.88,689,20103.56,0.25,14,Bachelor,RENT,debt_consolidation
+MON-5191,41,45493.36,462,27510.18,0.323,6,Bachelor,RENT,credit_card
+MON-5192,40,58734.99,660,36297.97,0.484,6,Doctorate,RENT,debt_consolidation
+MON-5193,39,22873.3,634,43228.81,0.202,17,Bachelor,MORTGAGE,credit_card
+MON-5194,70,25613.04,689,28847.11,0.54,13,Bachelor,MORTGAGE,debt_consolidation
+MON-5195,68,33053.2,526,43433.21,0.477,13,High School,RENT,credit_card
+MON-5196,60,85524.75,619,40716.6,0.23,16,High School,MORTGAGE,debt_consolidation
+MON-5197,39,36343.89,670,25439.01,0.446,8,Bachelor,MORTGAGE,debt_consolidation
+MON-5198,48,60824.55,702,22573.39,0.623,15,High School,MORTGAGE,credit_card
+MON-5199,64,67156.3,576,28105.26,0.205,16,Bachelor,RENT,debt_consolidation
+MON-5200,47,39258.94,675,26343.34,0.406,13,Bachelor,RENT,credit_card
+MON-5201,43,55314.3,531,37503.5,0.56,0,High School,OWN,credit_card
+MON-5202,49,42182.55,696,46434.37,0.525,15,Bachelor,RENT,debt_consolidation
+MON-5203,54,35555.53,404,24072.93,0.382,3,Bachelor,MORTGAGE,credit_card
+MON-5204,48,32007.81,421,26418.82,0.542,15,Master,RENT,debt_consolidation
+MON-5205,56,47243.14,703,32060.62,0.345,3,High School,RENT,home_improvement
+MON-5206,46,43786.4,559,20952.54,0.565,10,Master,MORTGAGE,debt_consolidation
+MON-5207,56,69651.97,423,15666.22,0.481,19,Bachelor,RENT,credit_card
+MON-5208,73,47217.02,606,21391.96,0.427,12,Bachelor,RENT,debt_consolidation
+MON-5209,74,21749.61,706,8982.72,0.225,15,Doctorate,RENT,debt_consolidation
+MON-5210,60,46844.95,715,37218.56,0.61,13,High School,RENT,debt_consolidation
+MON-5211,41,57646.72,409,19869.38,0.361,11,Bachelor,MORTGAGE,credit_card
+MON-5212,62,59327.63,601,11023.53,0.227,2,High School,RENT,credit_card
+MON-5213,68,33557.75,638,8140.48,0.407,0,High School,MORTGAGE,debt_consolidation
+MON-5214,39,59768.18,604,26790.83,0.511,14,Bachelor,RENT,debt_consolidation
+MON-5215,69,44478.88,656,15268.44,0.338,6,High School,OWN,debt_consolidation
+MON-5216,69,75918.55,560,19940.59,0.503,17,Master,RENT,credit_card
+MON-5217,73,52984.61,613,18302.57,0.395,12,High School,OWN,home_improvement
+MON-5218,36,46157.57,620,26769.95,0.332,19,High School,MORTGAGE,debt_consolidation
+MON-5219,51,30632.92,443,30183.77,0.437,11,Master,RENT,debt_consolidation
+MON-5220,41,32382.34,533,6270.3,0.506,12,High School,RENT,credit_card
+MON-5221,35,15000.0,552,25919.3,0.538,0,High School,RENT,debt_consolidation
+MON-5222,56,54041.64,660,13488.62,0.573,10,High School,RENT,credit_card
+MON-5223,36,61210.12,564,28700.75,0.321,7,High School,RENT,debt_consolidation
+MON-5224,38,39892.55,537,36824.66,0.467,13,Bachelor,RENT,credit_card
+MON-5225,66,71145.2,502,14998.52,0.433,7,Master,RENT,credit_card
+MON-5226,40,46879.77,706,30142.52,0.362,19,Bachelor,RENT,debt_consolidation
+MON-5227,44,35600.92,547,27004.91,0.233,11,High School,MORTGAGE,debt_consolidation
+MON-5228,68,51580.93,503,19178.34,0.411,19,Doctorate,RENT,debt_consolidation
+MON-5229,61,15000.0,694,41098.39,0.339,6,Bachelor,RENT,credit_card
+MON-5230,58,26854.7,680,20658.31,0.559,18,Master,OWN,credit_card
+MON-5231,55,23866.73,527,22470.92,0.219,3,High School,RENT,debt_consolidation
+MON-5232,48,75397.56,647,26749.0,0.422,5,High School,RENT,debt_consolidation
+MON-5233,61,52004.59,683,11659.85,0.291,5,Master,MORTGAGE,home_improvement
+MON-5234,73,57403.02,551,42574.74,0.56,11,High School,RENT,debt_consolidation
+MON-5235,47,32213.98,710,8490.15,0.596,12,High School,RENT,debt_consolidation
+MON-5236,44,69042.51,422,29061.38,0.358,11,Bachelor,RENT,home_improvement
+MON-5237,48,57481.35,564,15691.49,0.447,7,Master,OWN,credit_card
+MON-5238,35,27927.31,508,18334.7,0.483,19,High School,RENT,debt_consolidation
+MON-5239,62,29484.12,662,35077.2,0.558,17,High School,RENT,debt_consolidation
+MON-5240,52,57995.32,675,32906.08,0.321,7,Bachelor,MORTGAGE,debt_consolidation
+MON-5241,47,47499.69,496,9636.58,0.358,18,High School,RENT,credit_card
+MON-5242,66,42492.89,668,35939.35,0.622,2,Doctorate,RENT,credit_card
+MON-5243,46,39368.37,605,34165.74,0.31,7,Bachelor,RENT,debt_consolidation
+MON-5244,61,59274.0,554,24137.98,0.204,13,High School,RENT,credit_card
+MON-5245,70,52777.36,650,17745.61,0.377,15,High School,OWN,small_business
+MON-5246,57,63870.73,460,51961.75,0.435,1,Bachelor,MORTGAGE,debt_consolidation
+MON-5247,39,30549.99,660,35052.59,0.309,16,Bachelor,RENT,home_improvement
+MON-5248,47,44123.85,549,35047.8,0.403,8,High School,RENT,debt_consolidation
+MON-5249,72,57433.72,642,19535.43,0.476,0,High School,RENT,debt_consolidation
+MON-5250,66,57500.52,583,39361.92,0.369,4,Bachelor,MORTGAGE,debt_consolidation
+MON-5251,72,77038.52,506,28921.97,0.5,1,Bachelor,RENT,debt_consolidation
+MON-5252,73,37622.11,652,42811.79,0.235,0,Master,MORTGAGE,debt_consolidation
+MON-5253,53,32267.45,561,34457.34,0.272,19,Bachelor,RENT,debt_consolidation
+MON-5254,74,65584.47,449,5052.54,0.343,12,Bachelor,OWN,debt_consolidation
+MON-5255,56,34101.58,573,11390.6,0.462,2,Bachelor,MORTGAGE,debt_consolidation
+MON-5256,41,49703.37,525,11949.09,0.321,0,High School,RENT,credit_card
+MON-5257,56,48731.46,649,22459.01,0.355,7,High School,RENT,credit_card
+MON-5258,59,46685.06,425,21580.2,0.22,12,Bachelor,MORTGAGE,debt_consolidation
+MON-5259,74,81381.03,505,28996.41,0.489,6,Master,MORTGAGE,debt_consolidation
+MON-5260,47,79441.75,536,9825.74,0.585,10,Bachelor,RENT,debt_consolidation
+MON-5261,68,47263.83,646,37490.76,0.307,18,Doctorate,MORTGAGE,credit_card
+MON-5262,67,83177.87,684,26072.28,0.471,13,High School,MORTGAGE,credit_card
+MON-5263,66,42538.85,523,29906.83,0.626,15,Doctorate,OWN,debt_consolidation
+MON-5264,57,32749.02,615,19380.6,0.272,0,High School,RENT,debt_consolidation
+MON-5265,70,72764.61,541,25082.0,0.21,11,Master,MORTGAGE,debt_consolidation
+MON-5266,38,46001.74,559,29271.02,0.505,9,High School,RENT,credit_card
+MON-5267,36,50809.91,693,21745.91,0.528,0,Bachelor,RENT,debt_consolidation
+MON-5268,51,56953.34,701,32895.19,0.301,18,Bachelor,OWN,credit_card
+MON-5269,60,27662.1,597,6893.62,0.516,1,Bachelor,MORTGAGE,small_business
+MON-5270,37,45322.93,640,32294.66,0.63,16,Master,RENT,debt_consolidation
+MON-5271,39,77493.27,599,23244.42,0.246,17,High School,RENT,credit_card
+MON-5272,39,63358.89,503,22759.21,0.589,11,Master,RENT,debt_consolidation
+MON-5273,54,43303.95,583,13264.33,0.645,2,Master,RENT,debt_consolidation
+MON-5274,38,17245.9,472,8033.97,0.56,10,Bachelor,OWN,debt_consolidation
+MON-5275,47,15000.0,522,27339.39,0.603,18,High School,MORTGAGE,credit_card
+MON-5276,46,49122.99,621,22006.94,0.578,2,High School,RENT,credit_card
+MON-5277,74,59745.88,668,18741.82,0.608,14,Bachelor,RENT,credit_card
+MON-5278,64,37876.9,612,6489.28,0.521,13,Master,RENT,debt_consolidation
+MON-5279,47,30606.88,649,32987.61,0.484,13,Bachelor,RENT,debt_consolidation
+MON-5280,73,66900.64,441,3000.0,0.589,19,Bachelor,RENT,debt_consolidation
+MON-5281,36,61435.24,572,32525.19,0.47,6,Bachelor,RENT,credit_card
+MON-5282,35,51414.94,518,25006.07,0.208,18,Bachelor,RENT,debt_consolidation
+MON-5283,40,38405.35,539,26487.83,0.547,15,High School,MORTGAGE,debt_consolidation
+MON-5284,70,59090.45,660,38925.84,0.579,6,Bachelor,MORTGAGE,credit_card
+MON-5285,39,43525.05,622,10579.87,0.242,6,High School,MORTGAGE,credit_card
+MON-5286,55,55875.31,495,27570.44,0.554,16,Bachelor,RENT,debt_consolidation
+MON-5287,45,33126.19,535,38555.75,0.452,10,Bachelor,RENT,debt_consolidation
+MON-5288,41,56717.45,713,28926.06,0.37,17,Bachelor,RENT,debt_consolidation
+MON-5289,55,29502.81,453,36371.82,0.45,6,Bachelor,RENT,debt_consolidation
+MON-5290,62,31290.22,433,17433.08,0.214,19,High School,MORTGAGE,credit_card
+MON-5291,62,51301.06,456,25982.67,0.263,17,High School,OWN,debt_consolidation
+MON-5292,54,63099.28,475,27477.73,0.598,11,Bachelor,MORTGAGE,debt_consolidation
+MON-5293,73,35097.78,658,10414.99,0.639,6,High School,MORTGAGE,home_improvement
+MON-5294,37,40367.28,657,14674.2,0.398,6,High School,RENT,credit_card
+MON-5295,74,53748.27,540,37189.77,0.553,4,High School,MORTGAGE,debt_consolidation
+MON-5296,63,43543.72,525,40900.83,0.205,9,High School,MORTGAGE,debt_consolidation
+MON-5297,66,45138.68,454,7840.46,0.262,7,Bachelor,RENT,small_business
+MON-5298,36,46429.58,479,17717.73,0.223,10,Bachelor,RENT,debt_consolidation
+MON-5299,44,45915.17,605,13882.44,0.577,15,High School,RENT,debt_consolidation
+MON-5300,50,66606.67,401,3000.0,0.444,7,Bachelor,RENT,credit_card
+MON-5301,66,58548.9,673,14434.82,0.432,13,Master,RENT,debt_consolidation
+MON-5302,71,33740.44,521,15273.6,0.366,16,Master,MORTGAGE,credit_card
+MON-5303,66,55281.65,667,17159.29,0.236,7,High School,RENT,home_improvement
+MON-5304,58,41013.91,442,8151.9,0.59,5,Bachelor,OWN,debt_consolidation
+MON-5305,46,25950.08,587,38856.16,0.568,13,Master,MORTGAGE,debt_consolidation
+MON-5306,39,47410.14,610,12046.91,0.257,14,Master,RENT,debt_consolidation
+MON-5307,50,71555.16,518,7321.82,0.311,8,Doctorate,OWN,debt_consolidation
+MON-5308,40,50967.65,700,14665.51,0.491,2,Master,RENT,credit_card
+MON-5309,50,59199.02,541,12601.71,0.629,5,Bachelor,MORTGAGE,credit_card
+MON-5310,61,40627.9,544,24379.1,0.441,0,Bachelor,RENT,debt_consolidation
+MON-5311,44,60548.25,477,23657.74,0.257,12,High School,RENT,credit_card
+MON-5312,71,54560.88,434,23544.72,0.598,10,Bachelor,RENT,credit_card
+MON-5313,65,32251.19,433,18278.38,0.454,11,High School,RENT,debt_consolidation
+MON-5314,39,41253.44,404,10218.97,0.58,15,Master,RENT,home_improvement
+MON-5315,72,59845.59,460,21255.75,0.646,15,Bachelor,MORTGAGE,credit_card
+MON-5316,54,43725.32,705,32100.07,0.388,5,High School,MORTGAGE,debt_consolidation
+MON-5317,57,41543.51,527,31267.13,0.389,4,High School,OWN,credit_card
+MON-5318,59,67850.89,657,32909.43,0.268,19,High School,MORTGAGE,debt_consolidation
+MON-5319,62,57179.25,521,3274.91,0.288,19,High School,RENT,credit_card
+MON-5320,68,44365.05,706,24568.86,0.636,19,Bachelor,MORTGAGE,credit_card
+MON-5321,63,64429.5,428,32167.11,0.409,0,Bachelor,RENT,home_improvement
+MON-5322,56,54141.94,697,28106.15,0.418,14,Bachelor,MORTGAGE,credit_card
+MON-5323,67,49228.43,685,25953.65,0.436,13,High School,MORTGAGE,credit_card
+MON-5324,64,15000.0,564,29283.51,0.569,3,High School,MORTGAGE,credit_card
+MON-5325,39,55395.41,573,22431.09,0.424,12,Bachelor,RENT,debt_consolidation
+MON-5326,72,35557.44,637,8648.54,0.541,18,Bachelor,RENT,debt_consolidation
+MON-5327,56,52666.65,438,20839.25,0.261,2,High School,RENT,debt_consolidation
+MON-5328,43,58289.6,599,44303.86,0.638,18,Master,RENT,debt_consolidation
+MON-5329,70,54428.07,577,3000.0,0.203,16,Bachelor,RENT,debt_consolidation
+MON-5330,52,76803.71,637,35051.3,0.334,13,High School,RENT,debt_consolidation
+MON-5331,58,81412.53,455,16297.04,0.514,15,High School,RENT,home_improvement
+MON-5332,68,54080.32,538,13576.78,0.505,17,Bachelor,MORTGAGE,debt_consolidation
+MON-5333,66,48382.76,417,15053.52,0.602,6,Bachelor,MORTGAGE,home_improvement
+MON-5334,57,27155.67,429,21098.61,0.412,11,High School,RENT,debt_consolidation
+MON-5335,35,58758.99,686,25562.51,0.484,4,Master,RENT,debt_consolidation
+MON-5336,48,52453.82,410,29093.43,0.302,9,Master,OWN,debt_consolidation
+MON-5337,45,50908.71,520,16735.76,0.577,0,Bachelor,RENT,home_improvement
+MON-5338,54,33283.55,544,17680.31,0.338,2,Bachelor,RENT,home_improvement
+MON-5339,51,37555.99,655,28588.38,0.507,3,Master,MORTGAGE,home_improvement
+MON-5340,37,54642.47,671,31858.92,0.507,9,High School,RENT,debt_consolidation
+MON-5341,63,55487.86,630,22806.74,0.251,13,High School,RENT,debt_consolidation
+MON-5342,40,26756.3,418,25879.71,0.282,1,High School,RENT,debt_consolidation
+MON-5343,49,59935.69,622,20030.26,0.205,1,High School,MORTGAGE,home_improvement
+MON-5344,37,42397.52,604,25848.43,0.219,1,Bachelor,RENT,debt_consolidation
+MON-5345,50,39324.64,476,22828.38,0.527,15,Doctorate,RENT,credit_card
+MON-5346,43,75948.7,500,16064.83,0.47,15,Bachelor,RENT,debt_consolidation
+MON-5347,60,79331.02,606,19883.36,0.462,4,Master,RENT,home_improvement
+MON-5348,68,39170.59,663,39924.82,0.473,17,High School,RENT,small_business
+MON-5349,61,45288.37,487,10652.29,0.455,17,Bachelor,RENT,debt_consolidation
+MON-5350,59,52177.61,481,3000.0,0.403,2,High School,MORTGAGE,credit_card
+MON-5351,68,31137.92,675,3923.44,0.337,2,High School,RENT,credit_card
+MON-5352,43,47861.12,680,36974.89,0.557,9,High School,RENT,home_improvement
+MON-5353,63,62763.75,540,34833.59,0.468,2,High School,MORTGAGE,credit_card
+MON-5354,63,36400.9,516,24323.21,0.415,6,High School,MORTGAGE,small_business
+MON-5355,62,44741.49,539,18785.03,0.247,3,High School,RENT,credit_card
+MON-5356,37,41292.47,675,19228.22,0.321,17,High School,RENT,debt_consolidation
+MON-5357,43,76177.03,604,27066.63,0.457,19,High School,RENT,debt_consolidation
+MON-5358,62,83810.79,526,38496.25,0.208,9,Bachelor,RENT,debt_consolidation
+MON-5359,66,56119.24,457,33938.33,0.593,16,Bachelor,RENT,small_business
+MON-5360,55,57999.45,564,21540.85,0.222,4,Bachelor,RENT,credit_card
+MON-5361,53,39654.04,590,35607.91,0.594,14,High School,MORTGAGE,debt_consolidation
+MON-5362,69,37145.27,566,5413.59,0.329,8,Bachelor,RENT,debt_consolidation
+MON-5363,55,50989.46,457,23285.44,0.613,17,Bachelor,RENT,debt_consolidation
+MON-5364,46,65340.91,696,6217.68,0.521,4,High School,RENT,debt_consolidation
+MON-5365,36,37426.77,598,21083.83,0.209,4,Bachelor,MORTGAGE,debt_consolidation
+MON-5366,50,43544.52,640,23538.57,0.584,18,Bachelor,MORTGAGE,debt_consolidation
+MON-5367,70,72621.22,601,19009.33,0.293,18,High School,RENT,credit_card
+MON-5368,64,50280.83,561,29583.58,0.482,0,Master,MORTGAGE,debt_consolidation
+MON-5369,38,56365.2,462,32455.9,0.206,2,Bachelor,MORTGAGE,credit_card
+MON-5370,66,54992.65,434,12452.28,0.641,3,Bachelor,MORTGAGE,small_business
+MON-5371,41,34629.73,629,36047.15,0.31,3,High School,MORTGAGE,credit_card
+MON-5372,61,50701.53,508,32183.76,0.206,17,High School,MORTGAGE,credit_card
+MON-5373,63,47457.06,667,21020.26,0.251,12,Bachelor,MORTGAGE,home_improvement
+MON-5374,68,43483.73,682,55669.24,0.346,2,Bachelor,RENT,credit_card
+MON-5375,70,46879.76,524,14212.64,0.291,18,High School,RENT,debt_consolidation
+MON-5376,45,68919.07,516,37158.95,0.457,13,High School,MORTGAGE,small_business
+MON-5377,55,15000.0,666,26974.8,0.604,6,High School,RENT,home_improvement
+MON-5378,40,52751.78,431,34360.33,0.558,7,High School,RENT,small_business
+MON-5379,74,43340.21,547,45326.64,0.226,0,High School,MORTGAGE,debt_consolidation
+MON-5380,65,45939.76,499,40496.86,0.472,4,Bachelor,RENT,small_business
+MON-5381,46,52579.99,597,21982.91,0.638,4,High School,OWN,debt_consolidation
+MON-5382,61,48911.11,442,17905.76,0.369,15,Doctorate,OWN,debt_consolidation
+MON-5383,69,33358.04,582,12624.54,0.613,12,High School,RENT,debt_consolidation
+MON-5384,64,44036.59,474,29807.18,0.321,1,Master,RENT,credit_card
+MON-5385,58,58176.92,582,17067.6,0.397,18,High School,RENT,credit_card
+MON-5386,44,91287.3,468,32053.57,0.201,10,Doctorate,MORTGAGE,debt_consolidation
+MON-5387,40,72800.6,448,32225.56,0.218,12,Master,RENT,debt_consolidation
+MON-5388,40,22335.84,508,26060.8,0.605,16,High School,RENT,debt_consolidation
+MON-5389,55,15000.0,437,20869.15,0.403,16,High School,RENT,debt_consolidation
+MON-5390,71,63641.94,519,35405.17,0.606,19,High School,MORTGAGE,debt_consolidation
+MON-5391,54,66431.5,403,30834.95,0.252,18,High School,OWN,home_improvement
+MON-5392,55,44583.83,596,16819.8,0.226,9,Master,RENT,credit_card
+MON-5393,40,78454.07,435,21321.09,0.617,7,High School,RENT,debt_consolidation
+MON-5394,66,19599.4,576,6219.66,0.641,8,Master,RENT,debt_consolidation
+MON-5395,67,58796.46,529,9717.15,0.462,9,High School,MORTGAGE,small_business
+MON-5396,48,49705.72,558,11042.05,0.448,6,High School,RENT,debt_consolidation
+MON-5397,70,64873.74,620,31382.28,0.553,9,Master,RENT,credit_card
+MON-5398,49,71672.24,660,21677.96,0.3,10,Bachelor,OWN,credit_card
+MON-5399,58,50725.78,581,25660.11,0.621,4,Bachelor,RENT,credit_card
